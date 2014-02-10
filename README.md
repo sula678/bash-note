@@ -1,0 +1,4 @@
+bash-note
+=========
+
+personal practice
